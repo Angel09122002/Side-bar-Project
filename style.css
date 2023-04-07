@@ -42,3 +42,13 @@
     border: 1px solid gray;
 
 }
+.home-btn {
+    cursor: pointer;
+    
+}
+.contact-btn{
+    cursor: pointer;
+}
+.about-btn{
+    cursor: pointer;
+}
